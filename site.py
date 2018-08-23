@@ -19,7 +19,7 @@ def img_gen(width, height):
 
 @route('/statistic')
 def get_statistic(request):
-    
+
     return
 
 run(host='localhost', port=8000)
